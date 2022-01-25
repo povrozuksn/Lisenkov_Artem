@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1640102633 source:c:\users\user\desktop\operation\main.cpp
+	"TXLib.h"
+	<iostream>
+	<fstream>
+
